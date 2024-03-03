@@ -1,0 +1,10 @@
+ <!--suppert arabic nd english in your padg-->
+    <meta charset="UTF-8">
+ <!--konow and appear in scerch of google-->
+    <meta name="description" content="any thing about my padge">
+  
+        
+
+        <meta name="Keywords" content="Keywords">-----
+        <meta name="author" content="name of author">- لااعلمهم
+        <meta name="viewport" content="width=deivce">-

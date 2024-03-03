@@ -1,0 +1,8 @@
+title=>g
+href=>g
+src=>g
+hidden=>non g
+charset=>non g
+class=>g
+id=>g
+type=>gS

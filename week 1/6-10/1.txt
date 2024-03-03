@@ -1,0 +1,5 @@
+1=><!DOCTYPE html5>
+2=><!DOCTYPE html>
+3=>yes
+4=>yes
+5=>header

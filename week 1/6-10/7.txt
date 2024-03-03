@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="discription for my first page">
+    <title>My frist page</title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+    </style>
+    <script>
+
+    </script>
+
+</head>
+<body>
+   <h1>My page</h1>
+   <h2>This is my page</h2>
+   <hr>
+   <hr>
+   <hr>
+   <h1>section one</h1>
+   <h2>this is section one</h2>
+
+</body>
+</html>
