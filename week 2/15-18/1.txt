@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="discription for my first page">
+    <title>My frist page</title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+    </style>
+    <script>
+
+    </script>
+
+</head>
+<body>
+    <table width="100%"  border="1px" >
+      <tr>
+      <th>Group</th>
+      <th>Avater</th>
+       <th>Name</th>
+       <th>Gmail</th>
+        <th>character</th>
+        <th>profile</th>
+      </tr>
+      <tr >
+        <td rowspan="2">Ninja</td>
+        <td> 
+          <img src="1.png" alt="5555" width="40px">
+      </td>
+      <td >
+        Rawda Hamza
+      </td>
+      <td>o1@nn.sa <hr>
+           o1@nn.sa</td>
+    
+
+      <td >&COPY;</td>
+      <td >
+        <a href="https://www.amazon.com/" target="_blank">profile</a>
+      </td>
+
+      </tr>
+      
+    <td>
+      <img src="1.png" alt="5555" width="40px" >
+
+    </td>
+    <td>
+      Reem Mohamed
+    </td>
+    <td>o1@nn.sa</td>
+    <td > <small>TM</small></td>
+    <td >
+      <a href="https://www.amazon.com/" target="_blank">profile</a>
+    </td>
+
+ <tr>
+  <td>monsters</td>
+  <td>      <img src="1.png" alt="5555" width="40px">  </td>
+  <td> Noura Hamza</td>
+  <td>o1@nn.sa</td>
+  <td>&reg;</td>
+  <td>      <a href="https://www.amazon.com/" target="_blank">profile</a>  </td>
+ </tr>
+
+ <tr >
+  <td colspan="5">Total Members</td>
+  <td>      <a href="https://www.amazon.com/" target="_blank">profile</a>
+  </td>
+
+
+ </tr>
+
+      
+    </table>       
+
+
+</body>
+</html>

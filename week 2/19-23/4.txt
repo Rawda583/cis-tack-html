@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="discription for my first page">
+    <title>My frist page</title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+    </style>
+    <script>
+
+    </script>
+
+</head>
+<body>
+ <video controls autoplay poster="1.jpg" >
+  <source src="one.mp4" type="video/mp4">
+  <source src="one.webm"  type="video/mp4">
+  <source src="one.ogv" type="video/ogg">
+  
+   your brawser does not support the audio element.
+
+</video>
+</body>
+</html>

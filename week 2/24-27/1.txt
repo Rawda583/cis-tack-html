@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="discription for my first page">
+    <title>My frist page</title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+    </style>
+    <script>
+
+    </script>
+
+</head>
+<body>
+ <form method="post" action="test.py">
+<label>username</label>
+<input type="text" placeholder="please enter the username" required>
+<hr>
+<label>password</label>
+<input type="password" placeholder="please enter password">
+<hr>
+<label>mobile</label>
+<input type="tel" placeholder="please enter the phone number">
+<hr>
+<label>email</label>
+<input type="email" placeholder="please enter the email" required>
+<hr>
+<label>subject</label>
+<input type="text" placeholder="please enter the subject">
+<input type="reset" value="empty forem">
+<input type="submit" value="data send">
+</form>
+<!--<input type="range" max="400" min="100"-->
+</body>
+</html>

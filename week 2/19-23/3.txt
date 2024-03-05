@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="discription for my first page">
+    <title>My frist page</title>
+    <link rel="stylesheet" href="">
+    <style>
+        
+    </style>
+    <script>
+
+    </script>
+
+</head>
+<body>
+ <audio controls autoplay loop  
+  <source src="one.mp3" type="oudio/mpeg">
+  <source src="one.wav" >
+  <source src="one.ogg" type="oudio/ogg">
+  <source src="one.flac">>
+ 
+   your brawser does not support the audio element.
+
+</audio>
+</body>
+</html>
